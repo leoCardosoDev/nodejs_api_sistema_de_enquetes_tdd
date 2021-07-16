@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/leoCardosoDev/nodejs_api_sistema_de_enquetes_tdd/issues"
   },
-  "homepage": "https://github.com/leoCardosoDev/nodejs_api_sistema_de_enquetes_tdd#readme"
+  "homepage": "https://github.com/leoCardosoDev/nodejs_api_sistema_de_enquetes_tdd#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
